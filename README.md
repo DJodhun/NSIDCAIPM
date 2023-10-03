@@ -1,2 +1,2 @@
-# NSIDCAIPM
-NSIDC Arctic Ice Prediction Model
+# NSIDC Arctic Ice Prediction Model
+
