@@ -17,4 +17,4 @@ The best model performance came from the linear regression model, with the best 
 
 ## What This Repository Contains
 
-The main code file is final_project.ipynb, which contains everything needed to run the program. The .csv files are the required data files used as the dataset, where each file is a different feature as described above.
+The main code file is final_project.ipynb, which contains everything needed to train and test the models, and the relevant figures. The .csv files are the required data files used as the dataset, where each file is a different feature as described above.
