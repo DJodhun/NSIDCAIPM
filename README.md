@@ -14,3 +14,7 @@ The best model performance came from the linear regression model, with the best 
 - A wider range of features would create a better model.
 - Modelling the Arctic ice by season.
 - Expand the number of SL models to include Support \/ector Machines, Decision Trees and the Random Forest. These might be tricky to implement from scratch, if keeping with the spirit of the original project. 
+
+## What This Repository Contains
+
+The main code file is final_project.ipynb, which contains everything needed to run the program. The .csv files are the required data files used as the dataset, where each file is a different feature as described above.
